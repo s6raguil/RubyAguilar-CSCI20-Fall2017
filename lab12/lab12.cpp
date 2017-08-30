@@ -9,13 +9,13 @@ int main ()
 {
     cout << "     ⩓________⩓     " << endl;   
     cout << "    ⎛   ◉   ◉  ⎞    " << endl;       
-    cout << "    ⎜   (⦿⦿)   ⎜    " << endl;
+    cout << "    ⎜   (⦿⦿)   ⎜    " << endl; //head
     cout << "    ⎝__________⎠    " << endl;
     cout << "   ⎛            ⎞   " << endl;
-    cout << "   ⎟            ⎟   " << endl;
-    cout << "   ⎟            ⎟∝  " << endl;
-    cout << "   ⎝__☗______☗__⎠   " << endl;
+    cout << "   ⎟            ⎟   " << endl; //body
+    cout << "   ⎟            ⎟∝  " << endl; //curly tail
+    cout << "   ⎝__☗______☗__⎠   " << endl; //feet
     
 }
 
-
+// Cute piggy image
