@@ -1,6 +1,6 @@
 /*Ruby Aguilar
 August 31, 2017
-lab 1.3 
+lab 1.3: The assignment was to create a code that would calculate  the us population for a given year
 */
 
 
