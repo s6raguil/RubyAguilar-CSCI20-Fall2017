@@ -60,7 +60,6 @@ int main() {
 }
 
 /*
-    The spinner is divided into seven sections:
      
     Take one cherry from tree 
     Take two cherries from tree 
@@ -109,3 +108,617 @@ int getRandomNumInRange(int low, int high) {
 
 
 
+/*Take two cherries from tree
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take two cherries from tree
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Take two cherries from tree
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take two cherries from tree
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take two cherries from tree
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take two cherries from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take two cherries from tree
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Take two cherries from tree
+Computer's spin: 
+Take three cherries from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Dog: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Dog: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take two cherries from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Spilled basket: Replace all cherries on tree
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Bird: Replace cherries on tree: two
+Ruby's basket: 0
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take two cherries from tree
+Computer won!
+Take one cherry from tree
+Computer's spin: 
+Take one cherry from tree
+Computer won!
+Ruby's spin: 
+Ruby's spin: 
+Take four cherries from tree
+Computer's spin: 
+Take four cherries from tree
+Computer won!
+Ruby's spin: 
+Take three cherries from tree
+Computer's spin: 
+Bird: Replace cherries on tree: two
+Computer's basket: 0
+Computer won!
+Ruby's spin: 
+Spilled basket: Replace all cherries on tree
+Ruby's basket: 0
+Computer's spin: 
+Take two cherries from tree
+Computer won!
+Ruby's spin: 
+Take one cherry from tree
+Computer's spin: 
+Take four cherries from tree
+*/
